@@ -22,7 +22,7 @@ h2,p {
     );
     background-repeat: no-repeat;
     background-size: 0% 100%;
-    animation: animatedBackground 2s cubic-bezier(0.645, 0.045, 0.355, 1) 0.5s forwards;
+    animation: animatedBackground 75s cubic-bezier(0.645, 0.045, 0.355, 1) 3s forwards;
 }
 
 @keyframes animatedBackground {
